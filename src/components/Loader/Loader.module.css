@@ -1,0 +1,11 @@
+.loader {
+    margin: 0 auto;
+    font-size: 40px;
+    color: orange;
+    display: flex;
+}
+
+.spinner {
+    display: inline-block;
+    margin-right: 15px;
+}
